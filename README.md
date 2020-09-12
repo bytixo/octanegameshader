@@ -1,5 +1,5 @@
 # octanegameshader
-Octane shaders used to texture assets from various games
+Materials shaders for Octane render engine used to texture assets from various games
 
 Don't hesitate to suggest games !
 
